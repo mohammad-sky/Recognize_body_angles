@@ -25,6 +25,8 @@ See the example below
 
 
 You can also use a webcam or movie using a webcam file
+Replace the photo section
+
 
 - [webcam file](https://github.com/sepehrmizani/Recognize_body_angles/blob/main/file/webcam.ipynb)
 
