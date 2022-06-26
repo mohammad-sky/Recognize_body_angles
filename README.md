@@ -24,7 +24,9 @@ See the example below
 ![download](https://user-images.githubusercontent.com/83414472/175834005-197a6f6e-6418-48ab-9b76-55081dc8fb58.png)
 
 
-You can also use a webcam or movie using a webcam file
+You can also use a webcam or movie using a webcam file.
+
+
 Replace the photo section
 
 
